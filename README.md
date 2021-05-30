@@ -27,7 +27,7 @@ Cables de diferentes grosores, de mayor grosor para los motores.
 
 ## **Drivers de los motores**
 
-Se ha utilizado la librería de L.Llamas, la cual podeis encontrar en su página web https://github.com/luisllamasbinaburo/Arduino-BTS7960, y a la que se le ha hecho una pequeña modificación duplicando las funciones existentes para que funcione con 2 drivers BTS7960. 
+Se ha utilizado la librería de L.Llamas, la cual podeis encontrar en su página web https://github.com/luisllamasbinaburo/Arduino-BTS7960, y a la que se le ha hecho una pequeña modificación duplicando las funciones existentes para que funcione con 2 drivers BTS7960, la librería modificada se encuentra en la carpeta src en el apartado de librerias.
 
 
 ## **Contro vía Bluetooth**
